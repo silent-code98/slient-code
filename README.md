@@ -1,4 +1,4 @@
-- 👋 Hi, this is @slient-code AKA Adnan Amin.
+- 👋 Hi, this is @silent-code AKA Adnan Amin.
 - 👀 I’m interested in front-end web development and I love web development.
 - 🌱 Join me on my journey.
 - 💞️ I’m looking to collaborate on front-end web development.
